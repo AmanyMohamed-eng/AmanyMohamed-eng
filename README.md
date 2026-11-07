@@ -127,10 +127,15 @@ A productivity management application for organizing notes, tasks, and daily act
 ### 🤖 Mini AI
 
 <a href="https://github.com/AmanyMohamed-eng/mini-ai">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AmanyMohamed-eng&repo=mini-ai&theme=tokyonight&hide_border=true" width="100%" />
+  <img src="./assets/projects/mini-ai.png" width="100%" />
 </a>
 
 An AI-related project exploring practical application development.
+
+**Highlights:**
+- AI-focused application
+- Interactive user experience
+- Practical implementation of AI concepts
 
 [View Repository](https://github.com/AmanyMohamed-eng/mini-ai)
 
@@ -141,7 +146,16 @@ An AI-related project exploring practical application development.
 
 ### 🌍 Minia Travel
 
-A travel website project showcasing information and content related to Minia.
+<a href="https://amanymohamed-eng.github.io/Minia_travel/">
+  <img src="./assets/projects/minia-travel.png" width="100%" />
+</a>
+
+A travel website showcasing destinations and tourism-related content in Minia.
+
+**Highlights:**
+- Travel-focused website
+- Information about Minia
+- Responsive web experience
 
 [Live Demo](https://amanymohamed-eng.github.io/Minia_travel/)
 
@@ -150,7 +164,16 @@ A travel website project showcasing information and content related to Minia.
 
 ### 🍽️ Foody
 
-A collaborative food-related web project developed with a team.
+<a href="https://github.com/Craft-Coders-Team/Foody/tree/sections-topReceipts">
+  <img src="./assets/projects/foody.png" width="100%" />
+</a>
+
+A collaborative food-related web project developed as part of a team.
+
+**Highlights:**
+- Food and recipe-focused content
+- Collaborative team development
+- Dedicated project sections
 
 [View Team Repository](https://github.com/Craft-Coders-Team/Foody/tree/sections-topReceipts)
 
