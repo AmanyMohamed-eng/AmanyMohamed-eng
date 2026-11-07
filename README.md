@@ -108,7 +108,7 @@ const amany = {
 ### 🧠 MindFlow
 
 <a href="https://github.com/AmanyMohamed-eng/MindFlow">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AmanyMohamed-eng&repo=MindFlow&theme=tokyonight&hide_border=true" width="100%" />
+  <img src="./assets/projects/mindflow.png" width="100%" />
 </a>
 
 A productivity management application for organizing notes, tasks, and daily activities.
