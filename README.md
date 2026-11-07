@@ -147,7 +147,7 @@ An AI-related project exploring practical application development.
 ### 🌍 Minia Travel
 
 <a href="https://amanymohamed-eng.github.io/Minia_travel/">
-  <img src="./assets/projects/minia-travel.png" width="100%" />
+  <img src="./assets/projects/Screenshot 2026-11-01 204012.png" width="100%" />
 </a>
 
 A travel website showcasing destinations and tourism-related content in Minia.
