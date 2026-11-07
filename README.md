@@ -241,7 +241,7 @@ A social media platform where users can create accounts, manage profiles, publis
 ### Activity Graph
 
 <img
-  src="https://github-readme-activity-graph.vercel.app/graph?username=AmanyMohamed-eng&bg_color=211b2e&color=d8b4e2&line=b99acb&point=f3eafa&area=true&hide_border=true"
+  src="https://github-readme-activity-graph-seven-lemon.vercel.app/graph?username=AmanyMohamed-eng&bg_color=211b2e&color=d8b4e2&line=b99acb&point=f3eafa&area=true&hide_border=true"
   width="100%"
   alt="GitHub Contribution Activity Graph"
 />
