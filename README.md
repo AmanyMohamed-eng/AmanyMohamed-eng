@@ -179,6 +179,29 @@ A collaborative food-related web project developed as part of a team.
 
 </td>
 </tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🏡 Nestora
+
+<a href="https://github.com/AmanyMohamed-eng/NESTORA">
+  <img src="./assets/projects/nestora.png" width="100%" />
+</a>
+
+A furniture and home decor website built with Angular, featuring a clean and modern frontend experience.
+
+**Highlights:**
+- Furniture and home decor categories
+- Product-focused browsing experience
+- Responsive Angular frontend
+
+[View Repository](https://github.com/AmanyMohamed-eng/NESTORA)
+
+</td>
+<td width="50%" valign="top">
+
+</td>
+</tr>
 </table>
 
 </div>
