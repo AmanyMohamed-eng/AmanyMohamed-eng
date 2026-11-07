@@ -124,46 +124,6 @@ A productivity management application for organizing notes, tasks, and daily act
 </td>
 <td width="50%" valign="top">
 
-### 🏡 Nestora
-
-<a href="https://github.com/AmanyMohamed-eng/NESTORA">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AmanyMohamed-eng&repo=NESTORA&theme=tokyonight&hide_border=true" width="100%" />
-</a>
-
-A furniture and home decor web application built with Angular.
-
-**Highlights:**
-- Modern home decor interface
-- Organized product presentation
-- Responsive frontend layout
-- Angular and TypeScript
-
-[View Repository](https://github.com/AmanyMohamed-eng/NESTORA)
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-### ✨ Lumina UI
-
-<a href="https://github.com/AmanyMohamed-eng/lumina-ui">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AmanyMohamed-eng&repo=lumina-ui&theme=tokyonight&hide_border=true" width="100%" />
-</a>
-
-A reusable UI component library designed to support consistent interface development.
-
-**Highlights:**
-- Reusable UI components
-- Consistent design system
-- Versioned package
-
-[View Repository](https://github.com/AmanyMohamed-eng/lumina-ui)
-
-</td>
-<td width="50%" valign="top">
-
 ### 🤖 Mini AI
 
 <a href="https://github.com/AmanyMohamed-eng/mini-ai">
@@ -176,7 +136,6 @@ An AI-related project exploring practical application development.
 
 </td>
 </tr>
-
 <tr>
 <td width="50%" valign="top">
 
