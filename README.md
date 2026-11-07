@@ -208,7 +208,7 @@ A furniture and home decor website built with Angular, featuring a clean and mod
 ### 💬 SocialVibe
 
 <a href="https://github.com/AmanyMohamed-eng/Graduate_Project">
-  <img src="./assets/projects/socialvibe.png" width="100%" />
+  <img src="./assets/projects/Screenshot 2026-11-01 214129.png" width="100%" />
 </a>
 
 A social media platform where users can create accounts, manage profiles, publish posts, and interact with content.
