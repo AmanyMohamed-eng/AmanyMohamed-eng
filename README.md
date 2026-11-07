@@ -1,55 +1,72 @@
 
-<!-- ================= HEADER ================= -->
+<!-- ================================================== -->
+<!-- AMANY MOHAMED | GITHUB PROFILE PORTFOLIO            -->
+<!-- ================================================== -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:B69ACB,50:D8C5E2,100:F0E8F3&height=180&section=header&text=Amany%20Mohamed&fontSize=48&fontColor=302638&fontAlignY=42&desc=Full%20Stack%20Developer&descSize=19&descAlignY=65&animation=fadeIn" width="100%" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:B69ACB,50:D8C5E2,100:F0E8F3&height=190&section=header&text=Amany%20Mohamed&fontSize=48&fontColor=302638&fontAlignY=40&desc=Full%20Stack%20Developer&descSize=20&descAlignY=65&animation=fadeIn" />
+
+<br/>
+
+### Building Modern Web Applications & Scalable Solutions
 
 <br/>
 
 <a href="https://amany-portifolio.vercel.app/">
-<img src="https://img.shields.io/badge/Portfolio-B69ACB?style=for-the-badge&logo=vercel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Portfolio-Visit-B69ACB?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 <a href="https://www.linkedin.com/in/amanymsadky/">
-<img src="https://img.shields.io/badge/LinkedIn-9B7EAF?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-Connect-9B7EAF?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 <a href="https://nafezly.com/u/amany_mohammed">
-<img src="https://img.shields.io/badge/Nafezly-C8ADD8?style=for-the-badge&logo=freelancer&logoColor=white"/>
+<img src="https://img.shields.io/badge/Nafezly-Profile-C8ADD8?style=for-the-badge&logo=freelancer&logoColor=white"/>
 </a>
 <a href="https://github.com/AmanyMohamed-eng">
-<img src="https://img.shields.io/badge/GitHub-302638?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-Follow-302638?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=AmanyMohamed-eng&color=B69ACB&style=flat-square&label=PROFILE+VIEWS"/>
 
 </div>
 
 ---
 
+<!-- ABOUT ME -->
+
 ## About Me
 
 Hi! I'm **Amany Mohamed**, a Full Stack Developer passionate about building modern, responsive, and functional web applications.
 
-I enjoy working across the entire development process, from designing intuitive user interfaces to developing backend services, RESTful APIs, and database-driven applications.
+I enjoy working across the entire development process, from creating intuitive user interfaces to developing backend services, RESTful APIs, and database-driven applications.
 
-My main interests include:
+I'm particularly interested in backend development, application architecture, and building practical solutions to real-world problems.
 
-- Building responsive and user-friendly web applications.
-- Developing backend systems using Node.js and Express.js.
-- Designing and integrating RESTful APIs.
-- Working with MongoDB and database management.
-- Writing clean, maintainable, and reusable code.
-- Exploring new technologies and improving my software engineering skills.
+### What I Do
 
-I'm continuously learning, building projects, and looking for opportunities to collaborate on real-world applications.
+- Develop responsive and interactive web applications.
+- Build backend applications using Node.js and Express.js.
+- Design and integrate RESTful APIs.
+- Work with MongoDB and relational databases.
+- Create reusable and maintainable frontend components.
+- Practice problem-solving and strengthen algorithmic thinking.
+- Continuously explore new technologies and development practices.
 
 ---
 
-## Tech Stack & Skills
+<!-- TECH STACK -->
+
+## Technical Skills
 
 ### Frontend Development
 
-<p>
+<div align="left">
+
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,angular,tailwind,bootstrap&theme=light" />
-</p>
+
+</div>
 
 - HTML5 & CSS3
 - JavaScript (ES6+)
@@ -59,89 +76,123 @@ I'm continuously learning, building projects, and looking for opportunities to c
 - Tailwind CSS
 - Bootstrap
 - Responsive Web Design
+- DOM Manipulation
 
 ### Backend Development
 
-<p>
+<div align="left">
+
 <img src="https://skillicons.dev/icons?i=nodejs,express&theme=light" />
-</p>
+
+</div>
 
 - Node.js
 - Express.js
-- RESTful APIs
+- RESTful API Development
 - Authentication & Authorization
 - Server-side Development
 - API Integration
 
-### Database & Tools
+### Databases
 
-<p>
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,git,github,vscode,visualstudio,postman&theme=light" />
-</p>
+<div align="left">
+
+<img src="https://skillicons.dev/icons?i=mongodb,mysql&theme=light" />
+
+</div>
 
 - MongoDB
-- SQL & Database Fundamentals
-- Git & GitHub
-- Postman
-- VS Code
-- Visual Studio
+- SQL
+- Database Design Fundamentals
+- CRUD Operations
 
-### Programming & Computer Science
+### Programming Languages
+
+<div align="left">
+
+<img src="https://skillicons.dev/icons?i=cpp,cs,js,ts&theme=light" />
+
+</div>
 
 - C++
 - C#
+- JavaScript
+- TypeScript
+
+### Tools & Technologies
+
+<div align="left">
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,postman,npm&theme=light" />
+
+</div>
+
+- Git & GitHub
+- Visual Studio Code
+- Visual Studio
+- Postman
+- npm
+- Debugging & Testing
+
+### Computer Science Fundamentals
+
 - Object-Oriented Programming (OOP)
 - Data Structures
+- Algorithms
 - Problem Solving
 - Database Fundamentals
+- Computer Networks
+- Software Development Fundamentals
 
 ---
 
+<!-- PROJECTS -->
+
 ## Featured Projects
 
-A selection of my development projects, showcasing different technologies and areas of interest.
+A selection of projects showcasing my experience in frontend development, backend technologies, UI development, and building web applications.
 
 ### Full Stack & Web Applications
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-#### MindFlow
+### MindFlow
 
-**Productivity Management Application**
+**Notes & Productivity Management Application**
 
-A productivity platform for managing notes, tasks, and daily activities through an organized interface.
+A productivity platform designed to organize notes, tasks, and daily activities through a modern interface.
 
-**Features:**
+**Highlights**
+- Dashboard
 - Notes & Tasks Management
 - Calendar
-- Analytics Dashboard
+- Analytics
 - Dark & Light Mode
 
-**Tech:** JavaScript, Web Technologies
+**Technologies:** Web Technologies
 
-[Repository](https://github.com/AmanyMohamed-eng/MindFlow)
-
-[Live Demo](https://amanymohamed-eng.github.io/MindFlow/)
+<a href="https://github.com/AmanyMohamed-eng/MindFlow">Repository</a> ·
+<a href="https://amanymohamed-eng.github.io/MindFlow/">Live Demo</a>
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
-#### Mini AI
+### Mini AI
 
 **AI-Powered Web Application**
 
-A web development project exploring AI-powered application experiences and interactive interfaces.
+An application exploring AI-powered experiences and interactive web interfaces.
 
-**Focus:**
-- Modern UI
-- Interactive Features
-- AI Integration
+**Highlights**
+- Interactive Interface
+- AI-related Features
+- Modern User Experience
 
-**Tech:** Web Technologies
+**Technologies:** Web Technologies
 
-[Repository](https://github.com/AmanyMohamed-eng/mini-ai)
+<a href="https://github.com/AmanyMohamed-eng/mini-ai">Repository</a>
 
 </td>
 </tr>
@@ -151,90 +202,102 @@ A web development project exploring AI-powered application experiences and inter
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-#### Nestora
+### Nestora
 
 **Furniture & Home Decor**
 
-A modern furniture and home decor frontend application.
+A furniture and home decor frontend application with a modern shopping-oriented interface.
 
-**Features:**
-- Product-oriented interface
-- Category navigation
-- Responsive layouts
+**Highlights**
+- Product Presentation
+- Category Navigation
+- Responsive Layouts
 - Modern UI
 
-**Tech:** Angular, TypeScript, HTML, CSS
+**Technologies:** Angular, TypeScript, HTML, CSS
 
-[Repository](https://github.com/AmanyMohamed-eng/NESTORA)
+<a href="https://github.com/AmanyMohamed-eng/NESTORA">Repository</a>
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
-#### Lumina UI
+### Lumina UI
 
-**UI Component Library**
+**Reusable UI Component Library**
 
-A reusable UI component library designed to support consistent and maintainable frontend development.
+A UI component library focused on reusable components and consistent frontend styling.
 
-**Focus:**
+**Highlights**
 - Reusable Components
-- Consistent Styling
-- Developer Experience
+- Consistent Design
+- UI Development
 
-**Tech:** JavaScript, CSS
+**Technologies:** JavaScript, CSS
 
-[Repository](https://github.com/AmanyMohamed-eng/lumina-ui)
+<a href="https://github.com/AmanyMohamed-eng/lumina-ui">Repository</a>
 
 </td>
 </tr>
 
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-#### Minia Travel
+### Rose
+
+**Flower Shop Application**
+
+A frontend flower shop experience with elegant product presentation and navigation.
+
+**Technologies:** Angular, TypeScript, Bootstrap
+
+</td>
+<td width="50%" valign="top">
+
+### Minia Travel
 
 **Travel Website**
 
 A web project presenting travel-related content and destinations.
 
-**Tech:** HTML, CSS, JavaScript
+**Technologies:** HTML, CSS, JavaScript
 
-[Live Demo](https://amanymohamed-eng.github.io/Minia_travel/)
-
-</td>
-<td width="50%">
-
-#### Rose
-
-**Flower Shop Application**
-
-A frontend project focused on an elegant flower shopping experience.
-
-**Tech:** Angular, TypeScript, Bootstrap
+<a href="https://amanymohamed-eng.github.io/Minia_travel/">Live Demo</a>
 
 </td>
 </tr>
 </table>
 
-### Team & Collaborative Projects
+### Team & Collaborative Development
 
-#### Foody
+#### Foody — Craft Coders Team
 
-A collaborative food-related web development project.
+A collaborative web development project.
 
-**Focus:** Frontend Development & Team Collaboration.
+**Focus:** Frontend Development, Team Collaboration, and Feature Implementation.
 
-[Explore Project](https://github.com/Craft-Coders-Team/Foody/tree/sections-topReceipts)
-
-### Vanilla JavaScript Projects
-
-I also build smaller projects using core web technologies to strengthen my understanding of JavaScript fundamentals, DOM manipulation, and frontend development.
-
-[Explore My Repositories](https://github.com/AmanyMohamed-eng?tab=repositories)
+<a href="https://github.com/Craft-Coders-Team/Foody/tree/sections-topReceipts">Explore Repository</a>
 
 ---
+
+<!-- ALL REPOSITORIES -->
+
+## All GitHub Repositories
+
+Explore my public repositories, including frontend projects, backend experiments, full stack applications, programming practice, and collaborative work.
+
+<!-- REPOSITORIES:START -->
+
+_Repository list will be automatically generated by GitHub Actions._
+
+[View All My Repositories](https://github.com/AmanyMohamed-eng?tab=repositories)
+
+<!-- REPOSITORIES:END -->
+
+---
+
+<!-- PROBLEM SOLVING -->
 
 ## Competitive Programming & Problem Solving
 
@@ -249,12 +312,12 @@ I continuously practice problem-solving to strengthen my algorithmic thinking, p
 <br/><br/>
 
 <a href="https://codeforces.com/profile/Amany_Mohamed22">
-<img src="https://codeforces-readme-stats.vercel.app/api/card?username=Amany_Mohamed22&theme=default&disable_animations=true" width="65%"/>
+<img src="https://codeforces-readme-stats.vercel.app/api/card?username=Amany_Mohamed22&theme=default&disable_animations=true" width="65%" />
 </a>
 
 </div>
 
-### Problem-Solving Focus
+### Problem-Solving Topics
 
 - Data Structures & Algorithms
 - Arrays & Strings
@@ -266,15 +329,17 @@ I continuously practice problem-solving to strengthen my algorithmic thinking, p
 
 ---
 
+<!-- EDUCATION -->
+
 ## Education
 
 ### Minia University
 
 **Faculty of Computers and Information**
 
-Computer Science | Third Year
+Computer Science — Third Year
 
-Developing a strong foundation in:
+Academic interests and foundations:
 
 - Programming Fundamentals
 - Object-Oriented Programming
@@ -285,11 +350,13 @@ Developing a strong foundation in:
 
 ---
 
+<!-- CERTIFICATIONS -->
+
 ## Courses & Professional Development
 
 ### ITI — React Development
 
-Completed React training, focusing on modern frontend development and building component-based applications.
+Completed React training focused on modern frontend development and component-based application development.
 
 ### NTI — AI Full Stack Development Track
 
@@ -301,32 +368,42 @@ Completed a full stack development track covering:
 - Angular
 - Full Stack Development Fundamentals
 
-I continuously expand my technical knowledge through practical projects and hands-on learning.
+I continue to improve my technical skills through practical projects, hands-on learning, and exploring new technologies.
 
 ---
+
+<!-- ORGANIZATIONS -->
 
 ## Organizations & Team Collaboration
 
-I enjoy collaborating with other developers, contributing to team projects, sharing knowledge, and learning through practical software development experiences.
+I enjoy working with other developers, contributing to collaborative projects, sharing knowledge, and learning through teamwork.
 
-**Collaborative Project:**
+### Collaborative Development
 
-- Foody — Craft Coders Team
+**Craft Coders Team — Foody**
 
-[Explore Team Project](https://github.com/Craft-Coders-Team/Foody/tree/sections-topReceipts)
+<a href="https://github.com/Craft-Coders-Team/Foody/tree/sections-topReceipts">
+Explore Team Repository
+</a>
 
 ---
+
+<!-- INTERESTS -->
 
 ## Areas of Interest
 
 - Full Stack Web Development
 - Backend Engineering
-- REST API Development
+- RESTful API Development
 - Database Design & Management
 - Software Architecture
-- Building Scalable Web Applications
+- Scalable Web Applications
+- Problem Solving
+- Continuous Learning
 
 ---
+
+<!-- GITHUB STATISTICS -->
 
 ## GitHub Statistics
 
@@ -336,7 +413,7 @@ I enjoy collaborating with other developers, contributing to team projects, shar
 
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmanyMohamed-eng&layout=compact&hide_border=true&bg_color=FBF7FC&title_color=9876AE&text_color=51445B" />
 
-<br/>
+<br/><br/>
 
 <img src="https://streak-stats.demolab.com?user=AmanyMohamed-eng&hide_border=true&background=FBF7FC&ring=B69ACB&fire=9876AE&currStreakLabel=9876AE&sideLabels=51445B&dates=81738A" />
 
@@ -344,9 +421,23 @@ I enjoy collaborating with other developers, contributing to team projects, shar
 
 ---
 
+<!-- CONTRIBUTION GRAPH -->
+
+## Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AmanyMohamed-eng&bg_color=FBF7FC&color=51445B&line=B69ACB&point=9876AE&area=true&hide_border=true" width="100%" />
+
+</div>
+
+---
+
+<!-- CONNECT -->
+
 ## Let's Connect
 
-I'm always interested in connecting with developers, learning from others, and exploring new opportunities.
+I'm always interested in connecting with developers, collaborating on projects, learning from others, and exploring new opportunities.
 
 <div align="center">
 
@@ -366,8 +457,12 @@ I'm always interested in connecting with developers, learning from others, and e
 <img src="https://img.shields.io/badge/GitHub-Follow-302638?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
+<a href="https://codeforces.com/profile/Amany_Mohamed22">
+<img src="https://img.shields.io/badge/Codeforces-Profile-B69ACB?style=for-the-badge&logo=codeforces&logoColor=white"/>
+</a>
+
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:B69ACB,100:E8DCEC&height=100&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:B69ACB,100:E8DCEC&height=120&section=footer" width="100%" />
 
 </div>
