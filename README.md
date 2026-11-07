@@ -228,6 +228,18 @@ A social media platform where users can create accounts, manage profiles, publis
 
 <div align="center">
 
+### Contribution Calendar
+
+<img
+  src="https://ghchart.rshah.org/9B7EBD/AmanyMohamed-eng"
+  width="100%"
+  alt="Amany's GitHub Contribution Calendar"
+/>
+
+<br/><br/>
+
+### Activity Graph
+
 <img
   src="https://github-readme-activity-graph.vercel.app/graph?username=AmanyMohamed-eng&bg_color=211b2e&color=d8b4e2&line=b99acb&point=f3eafa&area=true&hide_border=true"
   width="100%"
