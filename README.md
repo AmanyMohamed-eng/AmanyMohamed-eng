@@ -165,7 +165,7 @@ A travel website showcasing destinations and tourism-related content in Minia.
 ### 🍽️ Foody
 
 <a href="https://github.com/Craft-Coders-Team/Foody/tree/sections-topReceipts">
-  <img src="./assets/projects/Nestora Furniture Dashboard Overview.png" width="100%" />
+  <img src="./assets/projects/" width="100%" />
 </a>
 
 A collaborative food-related web project developed as part of a team.
@@ -185,7 +185,7 @@ A collaborative food-related web project developed as part of a team.
 ### 🏡 Nestora
 
 <a href="https://github.com/AmanyMohamed-eng/NESTORA">
-  <img src="./assets/projects/nestora.png" width="100%" />
+  <img src="./assets/projects/Nestora Furniture Dashboard Overview.png" width="100%" />
 </a>
 
 A furniture and home decor website built with Angular, featuring a clean and modern frontend experience.
