@@ -268,15 +268,39 @@ A collaborative food-related web project developed with a team.
 
 ---
 
-## 🧩 Problem Solving
+## Competitive Programming & Problem Solving
+
+I regularly practice problem-solving to improve my algorithmic thinking and coding skills.
 
 <div align="center">
 
-<a href="https://codeforces.com/profile/Amany_Mohamed22">
-  <img src="https://img.shields.io/badge/Codeforces-Profile-9B7EBD?style=for-the-badge&logo=codeforces&logoColor=white" />
-</a>
+  <a href="https://codeforces.com/profile/Amany_Mohamed22">
+    <img src="https://img.shields.io/badge/Codeforces-Profile-8B5CF6?style=for-the-badge&logo=codeforces&logoColor=white" />
+  </a>
+
+  <br/><br/>
+
+  <a href="https://codeforces.com/profile/Amany_Mohamed22">
+    <img
+      src="https://codeforces-readme-stats.vercel.app/api/card?username=Amany_Mohamed22"
+      width="65%"
+      alt="Codeforces Stats"
+    />
+  </a>
 
 </div>
+
+### Problem-Solving Focus
+
+- Data Structures & Algorithms
+- Arrays & Strings
+- Sorting & Searching
+- Binary Search
+- Mathematics
+- Problem Analysis
+- Time & Space Complexity
+
+---
 
 ---
 
