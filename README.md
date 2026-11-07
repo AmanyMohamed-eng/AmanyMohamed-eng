@@ -127,7 +127,7 @@ A productivity management application for organizing notes, tasks, and daily act
 ### 🤖 Mini AI
 
 <a href="https://github.com/AmanyMohamed-eng/mini-ai">
-  <img src="./assets/projects/mini-ai.png" width="100%" />
+  <img src="./assets/projects/Screenshot 2026-11-07 172450.png" width="100%" />
 </a>
 
 An AI-related project exploring practical application development.
